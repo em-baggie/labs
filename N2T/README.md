@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/em-baggie/N2T/main/N2TLogo1.webp" alt="N2T logo" height="250">
+    <img src="https://raw.githubusercontent.com/em-baggie/labs/main/N2T/N2TLogo1.webp" alt="N2T logo" height="250">
     <br/>
     <br/>
     Nand2Tetris:<br/>Building a Modern Computer from First Principles
