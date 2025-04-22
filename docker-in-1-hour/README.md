@@ -1,0 +1,2 @@
+# Simple Node.js/Express Server with Docker 
+Following this [tutorial](https://www.youtube.com/watch?v=pg19Z8LL06w&t=913s) by [Nana](https://www.youtube.com/@TechWorldwithNana) to learn the basics of docker.
